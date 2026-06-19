@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+main{
+    background-image: url("../imagens/fundo-madeira.jpg");
+  
+}
+
+.container{
+    border: 2px solid black;
+    text-align: center;
+   
+
+}
+
+.container_botoes{
+  
+}
+
+
+.container_botoes img{
+    border-radius: 50%;
+}
